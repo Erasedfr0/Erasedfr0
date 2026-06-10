@@ -1,26 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:1F6FEB&text=ERASED&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:1F6FEB&text=ERASED&fontAlign=50&fontAlignY=40&fontSize=75&fontColor=FFFFFF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Erased;Python+Developer;HTML+%26+CSS+Learner;Open+Source+Explorer;Always+Building+Something+Cool"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Bug+Bounty+Hunter;CTF+Player;Networking+Explorer;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# ⚡ About Me
 
-```txt
-Name        : Erased
-Role        : Developer
-Learning    : Python, HTML, CSS
-Interests   : Programming, Technology, Open Source
-Goal        : Become Better Every Day
-```
+I'm passionate about Cyber Security, Networking, and Technology.
+
+I enjoy discovering how systems work, learning new techniques, solving challenges, and improving my skills every day.
+
+Currently focused on:
+- 🛡️ Cyber Security
+- 🐞 Bug Bounty Hunting
+- 🎯 Capture The Flag (CTF)
+- 🌐 Networking
+- 🐧 Linux
+- 🐍 Python
 
 ---
 
-# 🌐 Connect
+# 🛠️ Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=bash"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -28,7 +50,7 @@ Goal        : Become Better Every Day
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://x.com/">
+<a href="https://x.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
@@ -40,25 +62,7 @@ Goal        : Become Better Every Day
 
 ---
 
-# ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -70,7 +74,7 @@ Goal        : Become Better Every Day
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -112,7 +116,7 @@ Goal        : Become Better Every Day
 
 <div align="center">
 
-### ✨ "Stay curious. Keep learning. Keep building." ✨
+### ⚔️ Learn • Build • Secure • Repeat ⚔️
 
 </div>
 
